@@ -1,6 +1,6 @@
 ## Ulises González
 
-**Co-founder @ [Rizoma](https://rizo.ma)** | Professor @ IESA | Professional Scrum Trainer
+**Co-founder @ [Rizoma](https://rizo.ma)** | Professor @ IESA y ADEN
 
 Consultor con 20+ años trabajando en la intersección entre ciencia de datos, transformación organizacional y desarrollo de capacidades tecnológicas. Mi trabajo consiste en ayudar a equipos ejecutivos y técnicos a traducir objetivos estratégicos en cambio operativo real, usando datos como evidencia y metodologías ágiles como vehículo.
 
