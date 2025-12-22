@@ -1,12 +1,14 @@
 ## Ulises González
 
-**Co-founder @ [Rizoma](https://rizo.ma)** | Data Scientist & Business Agilist Specialist | Professor @ IESA y ADEN
+**Co-founder @ [Rizoma](https://rizo.ma)** | Professor @ IESA | Professional Scrum Trainer
 
-Trabajo en la intersección entre ciencia de datos, cultura digital y desarrollo organizacional. Mi expertise está en traducir capacidad técnica en cambio organizacional real — ayudando a equipos y organizaciones a apropiarse de tecnologías complejas sin depender eternamente de vendors externos.
+Consultor con 20+ años trabajando en la intersección entre ciencia de datos, transformación organizacional y desarrollo de capacidades tecnológicas. Mi trabajo consiste en ayudar a equipos ejecutivos y técnicos a traducir objetivos estratégicos en cambio operativo real, usando datos como evidencia y metodologías ágiles como vehículo.
 
 ### Lo que hago
 
-Consultoría en ciencia de datos aplicada con enfoque en desarrollo de capacidades internas. No entrego dashboards: construyo equipos que sepan leer sus propios datos, cuestionar sus modelos y tomar decisiones más informadas. Trabajo principalmente en sectores regulados (banca, energía, logística) donde la transformación digital no es opcional pero tampoco puede delegarse a la nube sin más.
+Consultoría especializada en **gestión del cambio organizacional**, **ciencia de datos aplicada** y **cultura digital**. No vendo adopción de herramientas: construyo capacidad interna para que las organizaciones tomen decisiones informadas, cuestionen vendors y escalen soluciones sin dependencia perpetua de consultores externos.
+
+Trabajo principalmente con equipos ejecutivos y técnicos en banca, seguros, telecomunicaciones y tecnología — sectores donde la transformación digital no es cosmética y la regulación impone restricciones reales.
 
 ### Stack técnico
 
@@ -14,47 +16,75 @@ Consultoría en ciencia de datos aplicada con enfoque en desarrollo de capacidad
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**AI & RAG:**
+**Cloud & Big Data:**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+
+**AI & Local Deployment:**
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_MCP-191919?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![Anthropic MCP](https://img.shields.io/badge/Anthropic_MCP-191919?style=flat&logo=anthropic&logoColor=white)
 
-**BI & Analytics:**
+**BI & Visualization:**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-**Models:**
-
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat&logo=meta&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logo=mistral&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-6A3D9A?style=flat&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
 ### Proyectos actuales
 
-- **ML aplicado**: desde análisis de clima organizacional con clustering hasta modelos predictivos hidrológicos
-- **Private RAG para legaltech**: sistemas de recuperación de documentos que operan offline por diseño regulatorio
-- **People analytics en banca**: laboratorios que procesan datos sensibles sin salir del perímetro corporativo
+- **Transformación organizacional + datos**: desde análisis de clima con clustering hasta modelos predictivos para infraestructura crítica (hidrología, energía)
+- **Private RAG systems**: sistemas de recuperación documental que operan offline por restricciones regulatorias (legaltech, banca)
+- **People analytics**: laboratorios que procesan datos sensibles sin salir del perímetro corporativo
 - **Academia de IA aplicada**: formación técnica orientada a autonomía, no a certificaciones decorativas
 
-### Enfoque pedagógico
+### Enfoque de formación
 
-Diseño curricular basado en **TBR/4C** y metodologías activas. El objetivo no es que los equipos "entiendan" IA en abstracto, sino que sepan cuándo un modelo es basura, cuándo un vendor les está vendiendo humo, y cómo validar si una solución técnica realmente resuelve su problema de negocio.
+Diseño curricular basado en **TBR/4C** y **metodologías activas de aprendizaje**. El objetivo no es que los equipos "entiendan" conceptos en abstracto, sino que desarrollen capacidad crítica: cuándo un modelo es inadecuado, cuándo un vendor vende humo, cómo validar si una solución técnica resuelve el problema de negocio real.
 
-**Certificaciones:** ICAgile | Scrum.org PST | ProKanban | ICF ACC
+Trainer oficial: **ICAgile** | **Scrum.org (PST)** | **ProKanban** | **DevOps Institute**
 
-### Sectores
+### Formación académica
 
-Banca | Energía | Logística | Legaltech
+- **AI & Machine Learning: Building Data Science Solutions** — MIT Professional Education
+- **Master en Big Data & Business Analytics** — ADEN Business School  
+- **Master Business Administration** — IESA
+- **Ingeniería Mecánica** — UNITEC
 
-Organizaciones que necesitan transformación digital real, no teatro corporativo. Lugares donde los datos importan, la regulación es restrictiva, y la capacidad interna marca la diferencia entre dependencia perpetua y autonomía técnica.
+### Certificaciones organizacionales
+
+**Transformación & Coaching:**  
+ICAgile (ICP-ACC, ICP-ATF, ICP-ENT, ICP-CAT) | ICF ACC | Lean Change Management
+
+**Professional Scrum (Scrum.org):**  
+PSM II | PSPO III | PAL-EBM | SPS | PSK | PSU | PSD
+
+**Gestión de proyectos:**  
+PMP | PMI-ACP | DASSM
+
+**DevOps & Lean:**  
+DevOps Leader | CDA | Six Sigma Black Belt | Flow System
+
+**Kanban:**  
+PKP | Professional Applied Metrics
+
+### Sectores de impacto
+
+Banca | Seguros | Telecomunicaciones | Tecnología | Energía | Legaltech
+
+Organizaciones que necesitan transformación operativa medible, no teatro corporativo con slides de design thinking.
 
 ---
 
