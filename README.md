@@ -1,6 +1,6 @@
 ## Ulises González
 
-**Co-founder @ [Rizoma](https://rizo.ma)** | Data Scientist & ML/AI Specialist | Professor @ IESA
+**Co-founder @ [Rizoma](https://rizo.ma)** | Data Scientist & Business Agilist Specialist | Professor @ IESA y ADEN
 
 Trabajo en la intersección entre ciencia de datos, cultura digital y desarrollo organizacional. Mi expertise está en traducir capacidad técnica en cambio organizacional real — ayudando a equipos y organizaciones a apropiarse de tecnologías complejas sin depender eternamente de vendors externos.
 
