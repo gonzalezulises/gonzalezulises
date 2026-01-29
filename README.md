@@ -1,6 +1,6 @@
 ## Ulises González
 
-**Co-founder @ [Rizoma](https://rizo.ma)** | Profesor @ IESA & ADEN | Scrum.org PST
+**Co-founder @ [Rizoma](https://rizo.ma)** | Profesor @ IESA & ADEN |
 
 Consultor con 20+ años en la intersección entre ciencia de datos, transformación organizacional y desarrollo de capacidades tecnológicas. Construyo soluciones con datos y formo equipos para que no dependan de consultores.
 
