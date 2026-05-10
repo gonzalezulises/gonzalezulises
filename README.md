@@ -182,14 +182,6 @@ I use `Codex`, `Claude Code`, and custom `MCP` tooling as leverage for shipping 
 | **wix-site-manager** `private` | Programmatic Wix site management via API. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **n8n-configuraciones** `private` | n8n configurations, deployment plan, and ops notes (DGX Spark + MCP in Claude Code). | ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![NVIDIA](https://img.shields.io/badge/-DGX_Spark-76B900?style=flat&logo=nvidia&logoColor=white) |
 
-### Scrum.org Courseware (Contributor — PST)
-
-Active contributor to the official Scrum.org courseware repositories as a Professional Scrum Trainer:
-
-`PSM` `PSPO` `PSPO-A` `PSPO-AIE` `SPS` `PSK` `PSU` `APS` `APS-SD` `PAL-E` `PAL-EBM` `PSFS` `PPDV` `PSPBM` `PPOC-Workshop`
-
----
-
 ### Full Stack
 
 **Python & Data Science:**
@@ -282,8 +274,6 @@ Active contributor to the official Scrum.org courseware repositories as a Profes
 ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ---
-
-**Official trainer:** ICAgile | Scrum.org (PST) | ProKanban | DevOps Institute
 
 **Education:** MIT Professional Education (AI & ML) | ADEN (Master Big Data) | IESA (MBA) | UNITEC (Mechanical Engineering)
 
